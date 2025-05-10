@@ -28,13 +28,7 @@ Welcome to the **Face Recognition Attendance System** — a smart solution for a
   - GUI Integration using Tkinter or Streamlit
   - Cloud-based attendance logs and dashboard  
 
----
 
-## 📸 Screenshots
-
-> _Coming soon: Sample screenshots/gifs of recognition in action!_
-
----
 
 ## 🧠 How It Works
 
