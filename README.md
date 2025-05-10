@@ -1,6 +1,6 @@
 # 🎯 Face Recognition Attendance System
 
-![Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
+![Banner](https://cdn.dribbble.com/userupload/25126157/file/original-b4e375e11656bdb2c9aec5333f82acaa.gif)
 
 Welcome to the **Face Recognition Attendance System** — a smart solution for automating classroom or office attendance using facial recognition technology. Developed using **OpenCV**, this project combines the power of computer vision with efficient data handling to recognize faces, mark attendance, and handle unknown entries as "Anonymous."
 
