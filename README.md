@@ -1,4 +1,3 @@
-```markdown
 # 🎯 Face Recognition Attendance System
 
 ![Banner](https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e)
@@ -93,4 +92,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 ## 🌟 Show Your Support
 
 If you liked this project, give it a ⭐ on GitHub and share it with your peers!
-```
